@@ -1,0 +1,51 @@
+body {
+    font-family: serif;
+}
+
+main {
+    margin: 50px 20px;
+    padding: 30px;
+}
+
+.rocket {
+    width: 25px;
+}
+
+.icons {
+    width: 15px;
+}
+
+#Contact-me .icons {
+    margin-right: 5px;
+}
+
+#Follow-Me .icons {
+    margin: 0 5px;
+}
+
+.Head {
+    display: flex;
+
+}
+
+.head-icons {
+    width: 20px;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+iframe {
+    margin: 50px auto;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
